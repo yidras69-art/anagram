@@ -1,0 +1,50 @@
+Kucing
+Anjing
+Kuda
+Sapi
+Kambing
+Domba
+Ayam
+Bebek
+Angsa
+Burung hantu
+Elang
+Rajawali
+Merpati
+Camar
+Gagak
+Harimau
+Singa
+Macan tutul
+Cheetah
+Beruang
+Serigala
+Rubah
+Panda
+Koala
+Kanguru
+Zebra
+Jerapah
+Gajah
+Badak
+Kuda nil
+Rusa
+Kerbau
+Babi
+Ular
+Kadal
+Komodo
+Buaya
+Katak
+Ikan paus
+Lumba-lumba
+Hiu
+Gurita
+Cumi-cumi
+Kepiting
+Udang
+Kupu-kupu
+Lebah
+Semut
+Belalang
+Kelelawar
